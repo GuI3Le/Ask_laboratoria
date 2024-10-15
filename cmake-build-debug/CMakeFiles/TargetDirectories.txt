@@ -1,0 +1,3 @@
+C:/Users/kamil/source/repos/Ask_laboratoria/cmake-build-debug/CMakeFiles/Ask_laboratoria.dir
+C:/Users/kamil/source/repos/Ask_laboratoria/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kamil/source/repos/Ask_laboratoria/cmake-build-debug/CMakeFiles/rebuild_cache.dir
