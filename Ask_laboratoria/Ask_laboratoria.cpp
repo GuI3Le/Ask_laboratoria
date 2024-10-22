@@ -147,6 +147,8 @@ void Zad7() {
         mov y, al
     }
     printf("Assemler: DEC : %d\t HEX : %x\n", y, y);
+
+    
 }
 
 
